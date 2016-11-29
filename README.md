@@ -1,2 +1,2 @@
-# franz-misskey-plugin
-Franz plugin for misskey
+# franz-misskey-delta-plugin
+Franz plugin for misskey delta
