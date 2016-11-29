@@ -1,14 +1,14 @@
 {
-  "name": "misskey-delta",
+  "name": "GNU Social",
   "version": "1.0.0",
-  "description": "misskey-delta",
+  "description": "Franz plugin for GNU Social",
   "main": "index.js",
-  "author": "Tosuke <tasukeprg@gmail.com>",
+  "author": "Atnanasi <ys2000prog@gmail.com>",
   "license": "MIT",
 
   "config": {
     "serviceURL": "",
-    "serviceName": "Misskey-delta",
+    "serviceName": "GNU Social",
     "message": "",
     "popup": [],
     "hasNotificationSound": true,
